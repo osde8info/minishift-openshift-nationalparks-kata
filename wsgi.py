@@ -77,4 +77,4 @@ api.add_resource(DataAll, '/ws/data/all')
 
 @application.route('/')
 def index():
-    return 'National Parks data V3.'
+    return 'National Parks data V4.'
